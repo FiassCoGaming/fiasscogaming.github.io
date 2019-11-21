@@ -1,37 +1,10 @@
-## Welcome to GitHub Pages
+## Welcome to FiassCoGaming's GitHub for all your texture pack needs
 
-You can use the [editor on GitHub](https://github.com/FiassCoGaming/fiasscogaming.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+All you need to do is download the files to go with it and then the realm should be up and ready for you
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Yes don't worry it does work with Optifine and it is user friendly. Both the sound packs and the regular texture packs work the same. All you do is download the zip file and drag it into your resorce packs folder then you just make sure you enable them.
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FiassCoGaming/fiasscogaming.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with downloads join my discord and @ mention me and I'll help you in any way I can. The link for the discord is [here](https://discord.gg/McmdRPg). 
