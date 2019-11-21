@@ -4,6 +4,9 @@ All you need to do is download the files to go with it and then the realm should
 
 Yes don't worry it does work with Optifine and it is user friendly. Both the sound packs and the regular texture packs work the same. All you do is download the zip file and drag it into your resorce packs folder then you just make sure you enable them.
 
+### Find me on Twitch
+
+[twitch.tv/FiassCoGaming](twitch.tv/FiassCoGaming)
 
 ### Support or Contact
 
